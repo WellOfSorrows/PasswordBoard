@@ -11,3 +11,4 @@ After submitting the password two scenarios happen: the password is either corre
 
 The board of this system looks like this:
 
+![Boadrd image](Board.png)
